@@ -1,0 +1,53 @@
+.header {
+  text-align: center;
+  font-size: 150%;
+}
+
+.body {
+  background-color: linen;
+}
+
+.center {
+  margin: auto;
+  width: 600px;
+  border: 1px solid black;
+  position: sticky;
+  top: 0;
+}
+
+.leads {
+  width: 9%;
+  margin: auto;
+}
+
+.links {
+  text-align: center;
+  font-size: 100%;
+}
+
+.brin {
+  width: 20%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  border: 15px double white;
+  padding: 10px;
+}
+
+.failures {
+  margin-left: 10%;
+  margin-right: 10%;
+  border: 2px solid white;
+  width: 80%;
+  top: 10%;
+  margin-top: 15px;
+}
+
+.quote {
+  font-size: 130%; 
+  text-align: center;
+}
+
+.paragraphs {
+  font-size: 115%;
+}
